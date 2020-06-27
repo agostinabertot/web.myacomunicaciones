@@ -1,0 +1,111 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.padre {
+    display: flex;
+    flex-flow: column nowrap;
+}
+
+.header {
+    display: flex;
+    flex-flow: column nowrap;
+}
+
+.cabecera {
+    background: #95389e;
+    color: #fff;
+    display: flex;
+}
+
+.nombre {
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.fondomenu {
+    background: #f35588;
+    flex-flow: row nowrap;
+    display: flex;
+}
+
+.menu {
+    color: #fff;
+    letter-spacing: 1px;
+    padding-right: 15px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.fondomenu a:hover {
+    color: #95389e;
+    text-decoration: none;
+}
+
+.social {
+    flex: 1 1 auto;
+    display: flex;
+    background: #f35588;
+    color: #fff;
+    /* text-align: end; */
+    font-family: 'Montserrat', sans-serif;
+}
+
+.social a {
+    font-size: 18px;
+    color: #fff;
+    padding: 0 15px;
+}
+
+.social a:hover {
+    color: #95389e;
+}
+
+.seccion1 {
+    background: url(./imagenesMYA/seccion1\ -\ copia.png);
+    padding: 300px 0px 450px 0px;
+    /* display: flex;
+    flex-flow: column nowrap; */
+}
+
+.seccion2 {
+    background: #f35588;
+    color: #fff;
+    padding: 100px 200px 100px 200px;
+}
+
+.seccion3 {
+    background: #3e64ff;
+    color: #fff;
+    padding: 60px 200px 60px 200px;
+    text-align: center;
+    letter-spacing: 1px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.footer {
+    background: #95389e;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    font-size: 13px;
+}
+
+.seccion4 {
+    background: #95389e;
+}
+
+.seccion5 {
+    background: #3e64ff;
+    color: #fff;
+    padding: 60px 200px 60px 200px;
+    display: flex;
+    flex-flow: column nowrap;
+}
+
+.seccion6 {
+    background: #f35588;
+    color: #fff;
+    padding: 60px 200px 60px 200px;
+    display: flex;
+    flex-flow: column nowrap;
+}
