@@ -69,8 +69,10 @@ html {
 .seccion2 {
     background: #f35588;
     color: #fff;
-    padding: 100px 200px 100px 200px;
+    padding: 100px 80px 100px 80px;
     font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    letter-spacing: 1px;
 }
 
 .seccion3 {
@@ -97,9 +99,12 @@ html {
 .seccion5 {
     background: #3e64ff;
     color: #fff;
-    padding: 60px 200px 60px 200px;
+    padding: 60px 80px 60px 80px;
     display: flex;
     flex-flow: column nowrap;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 1px;
+    text-align: center;
 }
 
 .seccion6 {
