@@ -59,9 +59,23 @@ html {
     color: #95389e;
 }
 
-.seccion1 {
-    background: url(./imagenesMYA/seccion1\ -\ copia.png);
-    padding: 300px 0px 450px 0px;
+div.transparencia {
+    margin: 30px;
+    background-color: #ffffff;
+    border: none;
+    opacity: 0.6;
+}
+
+div.transparencia p {
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 1px;
+    color: #ffff;
+}
+
+.fondo {
+    /* background-image: url(imagenesMYA/seccion1.png) repeat; */
+    /* width: 100%; */
+    /* padding: 300px 0px 450px 0px; */
     /* display: flex;
     flex-flow: column nowrap; */
 }
@@ -94,6 +108,10 @@ html {
 
 .seccion4 {
     background: #95389e;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 1px;
+    padding: 40px 10px 40px 10px;
 }
 
 .seccion5 {
