@@ -23,6 +23,14 @@ html {
     font-family: 'Montserrat', sans-serif;
 }
 
+.email {
+    letter-spacing: 1px;
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+    font-size: 20px;
+    text-decoration: none;
+}
+
 .fondomenu {
     background: #f35588;
     flex-flow: row nowrap;
