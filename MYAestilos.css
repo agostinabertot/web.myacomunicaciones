@@ -73,8 +73,8 @@ div.transparencia p {
 }
 
 .fondo {
-    /* background-image: url(imagenesMYA/seccion1.png) repeat; */
-    /* width: 100%; */
+    background-image: url(imagenesMYA/seccion1.png);
+    width: 100%;
     /* padding: 300px 0px 450px 0px; */
     /* display: flex;
     flex-flow: column nowrap; */
@@ -111,7 +111,7 @@ div.transparencia p {
     color: #fff;
     font-family: 'Montserrat', sans-serif;
     letter-spacing: 1px;
-    padding: 40px 10px 40px 10px;
+    padding: 40px 0px 40px 0px;
 }
 
 .seccion5 {
