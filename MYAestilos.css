@@ -31,6 +31,11 @@ html {
     text-decoration: none;
 }
 
+.email a:hover {
+    color: #f35588;
+    text-decoration: none;
+}
+
 .fondomenu {
     background: #f35588;
     flex-flow: row nowrap;
