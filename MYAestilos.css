@@ -23,41 +23,21 @@ html {
     font-family: 'Montserrat', sans-serif;
 }
 
-.email {
-    letter-spacing: 1px;
-    font-family: 'Montserrat', sans-serif;
-    color: #fff;
-    font-size: 20px;
-    text-decoration: none;
-}
-
-.email a:hover {
-    color: #f35588;
-    text-decoration: none;
-}
-
-.fondomenu {
-    background: #f35588;
-    flex-flow: row nowrap;
-    display: flex;
-}
-
 .menu {
-    color: #fff;
+    color: #fff !important;
     letter-spacing: 1px;
     padding-right: 15px;
     font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
 }
 
-.fondomenu a:hover {
+.menu a:hover {
     color: #95389e;
-    text-decoration: none;
 }
 
 .social {
     flex: 1 1 auto;
     display: flex;
-    background: #f35588;
     color: #fff;
     font-family: 'Montserrat', sans-serif;
 }
@@ -69,7 +49,7 @@ html {
 }
 
 .social a:hover {
-    color: #95389e;
+    color: #d291bc;
 }
 
 div.transparencia {
@@ -128,8 +108,6 @@ div.transparencia p {
     background: #00bcd4;
     color: #fff;
     padding: 60px 80px 60px 80px;
-    display: flex;
-    flex-flow: column nowrap;
     font-family: 'Montserrat', sans-serif;
     letter-spacing: 1px;
     text-align: center;
